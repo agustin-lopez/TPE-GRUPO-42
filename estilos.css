@@ -2,6 +2,10 @@ body{
     background-color: black;
 }
 
+img{
+    width: 100%;
+}
+
 .portada{
     font-size: 16px;
     min-height: 40.62em;
@@ -43,4 +47,67 @@ body{
     cursor: pointer;
     transition: .3s ease all;
     font-size: 1.12em;
+}
+/*carrousel*/
+
+.peliculas-recom{
+    margin-bottom: 70px;
+}
+
+.peliculas-recom .contenedor-principal{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.peliculas-recom .contenedor-principal .flecha-izq, .peliculas-recom .contenedor-principal .flecha-der {
+    position: absolute;
+    border: none;
+    background: rgba(0,0,0,0.3);
+    font-size: 40px;
+    height: 50%;
+    top: calc(50% - 25%);
+    line-height: 40px;
+    width: 50px;
+    color: white;
+    cursor: pointer;
+    z-index: 500;
+    transition: .2s ease all;
+}
+
+.peliculas-recom .contenedor-principal .flecha-izq{
+    left: 0;
+}
+
+.peliculas-recom .contenedor-principal .flecha-der{
+    right: 0;
+}
+
+.contenedor-titulo-controles{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.contenedor-titulo-controles h3{
+    color: white;
+    font-size: 30px;
+}
+
+.peliculas-recom .contenedor-carrousel{
+    width: 100%;
+    padding: 20px 0;
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+
+.peliculas-recom .contenedor-carrousel .carrousel{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.peliculas-recom .contenedor-carrousel .carrousel .pelicula{
+    width: 20%;
+    transition: .3s ease all;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
