@@ -10,3 +10,7 @@
 -La pagina about dando informacion de desarrolladores y datos del origen de la informacion.
 -Agregar estilos
 /ABOUT
+
+/DB
+-Completar base de datos de series y peliculas con su estructura de id, nombre, categoria y descripcion
+/DB
