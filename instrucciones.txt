@@ -1,0 +1,12 @@
+-Crear plantillas del navbar y footer.
+
+/HOME
+-Hacer home con presentacion de la pagina y descripcion, seguido ira una lista de las series/peliculas mejor puntuadas de este año.
+-Esta lista va a contar con selects para aplicar filtros.
+-Agregar estilos
+/HOME
+
+/ABOUT
+-La pagina about dando informacion de desarrolladores y datos del origen de la informacion.
+-Agregar estilos
+/ABOUT
