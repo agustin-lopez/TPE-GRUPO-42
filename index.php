@@ -39,6 +39,7 @@
     </div>
   </nav>
     <main>
+      <div class="estilos-default"></div>
         <div class="portada">
             <div class="contenedor">
                 <h3 class="titulo">ChainsawMan</h3>
