@@ -39,6 +39,8 @@
     </div>
   </nav>
     <main>
+      <div></div>
+      <div></div>
       <div class="estilos-default"></div>
         <div class="portada">
             <div class="contenedor">
