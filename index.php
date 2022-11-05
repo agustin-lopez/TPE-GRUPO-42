@@ -60,7 +60,7 @@
             <div class="pelicula">
               <a href="#"><img src="./Imagenes-pagina/pelicula_1.jpg" alt=""></a>
               <a href="#"><img src="./Imagenes-pagina/pelicula_2.jpg" alt=""></a>
-              <a href="#"><img src="./Imagenes-pagina/pelicula_3.jpg" alt=""></a>
+              <a href="#"><img src="./Imagenes-pagina/pelicula_5.jpg" alt=""></a>
               <a href="#"><img src="./Imagenes-pagina/pelicula_4.jpg" alt=""></a>
             </div>
           </div>
