@@ -29,6 +29,12 @@ img{
     margin-bottom: 0.4em;
 }
 
+.porta .subtitulo{
+    font-weight: 400;
+    font-size: 3.12em;
+    margin-bottom: 0.4em;
+}
+
 .portada .descripcion{
     font-weight: normal;
     font-size: 1em;
