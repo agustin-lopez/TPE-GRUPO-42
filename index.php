@@ -59,9 +59,13 @@
           <div class="carrousel">
             <div class="pelicula">
               <a href="#"><img src="./Imagenes-pagina/pelicula_1.jpg" alt=""></a>
+              <h4 class="titulosRecomendados">Soy leyenda</h4>
               <a href="#"><img src="./Imagenes-pagina/pelicula_2.jpg" alt=""></a>
+              <h4 class="titulosRecomendados">Spiderman</h4>
               <a href="#"><img src="./Imagenes-pagina/pelicula_3.jpg" alt=""></a>
+              <h4 class="titulosRecomendados">Madagascar</h4>
               <a href="#"><img src="./Imagenes-pagina/pelicula_4.jpg" alt=""></a>
+              <h4 class="titulosRecomendados">Jurassic world: the fallen kingdom</h4>
             </div>
           </div>
         </div>
