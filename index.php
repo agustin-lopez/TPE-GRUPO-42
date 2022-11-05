@@ -42,9 +42,9 @@
       <div class="estilos-default"></div>
         <div class="portada">
             <div class="contenedor">
-                <h3 class="titulo">ChainsawMan3</h3>
-                <p class="descripcion">Denji es un adolescente que vive3 con un demonio motosierra llamado Pochita. Para pagar la deuda que le dejó su padre tras su muerte, ha tenido que ganarse el pan como puede matando demonios y vendiendo sus cadáverse a la mafia, aunque su vida siempre ha sido miserable.</p>
-                <button class="boton">Reprodu3cir</button>
+                <h3 class="titulo">ChainsawMan</h3>
+                <p class="descripcion">Denji es un adolescente que vive con un demonio motosierra llamado Pochita. Para pagar la deuda que le dejó su padre tras su muerte, ha tenido que ganarse el pan como puede matando demonios y vendiendo sus cadáverse a la mafia, aunque su vida siempre ha sido miserable.</p>
+                <button class="boton">Reproducir</button>
                 <button class="boton">Informacion</button>
             </div>
         </div>
