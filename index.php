@@ -39,10 +39,13 @@
     </div>
   </nav>
     <main>
+      <div></div>
+      <div></div>
       <div class="estilos-default"></div>
         <div class="portada">
             <div class="contenedor">
                 <h3 class="titulo">ChainsawMan</h3>
+                <h3 class="subtitulo">Elpibe motosierra</h3>
                 <p class="descripcion">Denji es un adolescente que vive con un demonio motosierra llamado Pochita. Para pagar la deuda que le dejó su padre tras su muerte, ha tenido que ganarse el pan como puede matando demonios y vendiendo sus cadáverse a la mafia, aunque su vida siempre ha sido miserable.</p>
                 <button class="boton">Reproducir</button>
                 <button class="boton">Informacion</button>
@@ -59,8 +62,16 @@
           <div class="carrousel">
             <div class="pelicula">
               <a href="#"><img src="./Imagenes-pagina/pelicula_1.jpg" alt=""></a>
+              <h4 class="titulosRecomendados">Soy leyenda</h4>
               <a href="#"><img src="./Imagenes-pagina/pelicula_2.jpg" alt=""></a>
+<<<<<<< HEAD
+=======
+              <h4 class="titulosRecomendados">Spiderman</h4>
+              <a href="#"><img src="./Imagenes-pagina/pelicula_3.jpg" alt=""></a>
+              <h4 class="titulosRecomendados">Madagascar</h4>
+>>>>>>> front-end
               <a href="#"><img src="./Imagenes-pagina/pelicula_4.jpg" alt=""></a>
+              <h4 class="titulosRecomendados">Jurassic world: the fallen kingdom</h4>
             </div>
           </div>
         </div>
